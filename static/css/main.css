@@ -1,0 +1,51 @@
+
+.nav_bar{
+    background-color: brown;
+    text-align: left;
+    font-size: 30px;
+    
+}
+.nav_l{
+    float: left;
+    color: antiquewhite;
+}
+.nav_r{
+    float: right;
+}
+
+
+a{
+    text-decoration-line: nonex;
+    color: aliceblue;
+}
+.foo{
+    background-color: aquamarine;
+    position: absolute;
+    bottom: 10px;
+        
+}
+img, article{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    font-size: 25px;
+    color: aliceblue;
+    
+}
+article{
+    float: right;
+    
+}
+.img{
+    display:box;
+    position: relative;
+    height: 100%;
+}
+.form{
+    
+    position: absolute;
+    float: right;
+}
+input{
+    display: block;
+}
